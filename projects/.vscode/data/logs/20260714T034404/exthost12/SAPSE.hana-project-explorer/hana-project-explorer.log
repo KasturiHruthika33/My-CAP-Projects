@@ -1,0 +1,12 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Sample/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T12:59:44.294Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T13:01:02.897Z"
+}

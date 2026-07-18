@@ -1,0 +1,9 @@
+2026-07-15 09:02:16.597 [error] An error occurred when activating the migration. Error:  TypeError: (intermediate value).filter is not a function
+    at Function.getProjectRoots (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.28.0/dist/extension-min.cjs:3896:21204)
+    at checkForMigrationOnFile (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.28.0/dist/extension-min.cjs:3935:9653)
+    at activateMigrationWatch (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.28.0/dist/extension-min.cjs:3985:296)
+    at activateMigration (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.28.0/dist/extension-min.cjs:3985:375)
+    at activate (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.28.0/dist/extension-min.cjs:3985:5811)
+    at gA.n (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:13398)
+    at gA.m (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:13361)
+    at gA.l (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:116:12817)

@@ -1,0 +1,72 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "The \"/home/user/projects/where/gen/db\" folder does not exist; cannot create deploy task",
+  "time": "2026-07-16T05:19:28.467Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/LKMpro2/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:19:31.121Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:22:52.211Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:23:04.644Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:23:54.624Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:23:58.585Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:25:09.239Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:25:18.713Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:25:22.774Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:25:27.038Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:25:30.994Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-16T05:25:34.777Z"
+}

@@ -1,0 +1,48 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Sample/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T13:02:43.066Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Sample/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Sample/db/src/.hdiconfig'",
+  "time": "2026-07-14T13:03:28.858Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Sample/gen/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Sample/gen/db/src/.hdiconfig'",
+  "time": "2026-07-14T13:05:02.093Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse structured log entry '': Unexpected end of JSON input",
+  "time": "2026-07-14T13:05:12.039Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Sample/gen/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Sample/gen/db/src/.hdiconfig'",
+  "time": "2026-07-14T13:07:12.807Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse structured log entry '': Unexpected end of JSON input",
+  "time": "2026-07-14T13:07:19.337Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not retrieve target container for module at path /home/user/projects/Sample/gen/db",
+  "time": "2026-07-14T13:18:10.218Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not retrieve target container for module at path /home/user/projects/Sample/gen/db",
+  "time": "2026-07-14T13:18:11.916Z"
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://theia-workspaces-ws-c73bw.us10.trial.applicationstudio.cloud.sap/home/user/projects/sample"
+		},
+		{
+			"uri": "vscode-remote://theia-workspaces-ws-c73bw.us10.trial.applicationstudio.cloud.sap/home/user/projects"
+		},
+		{
+			"name": "LKMpro",
+			"uri": "vscode-remote://theia-workspaces-ws-c73bw.us10.trial.applicationstudio.cloud.sap/home/user/projects/LKMpro"
+		}
+	],
+	"remoteAuthority": "theia-workspaces-ws-c73bw.us10.trial.applicationstudio.cloud.sap",
+	"settings": {}
+}

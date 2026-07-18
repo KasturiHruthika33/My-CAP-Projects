@@ -1,0 +1,91 @@
+[1784101066438] INFO  (ext): SQLTools is starting
+[1784101066440] INFO  (ext): initializing language client...
+[1784101066517] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1784101066525] INFO  (ext): loading plugins...
+[1784101066525] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1784101066525] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1784101066526] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1784101066526] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1784101066527] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784101066531] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1784101066531] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1784101066531] INFO  (ext): registering Authentication Provider Plugin.
+    plugin: {
+      "name": "Authentication Provider Plugin",
+      "isRegistered": false
+    }
+[1784101066532] INFO  (ext): registering Object Drop-in Provider (plugin).
+    plugin: {
+      "type": "plugin",
+      "name": "Object Drop-in Provider",
+      "isRegistered": false
+    }
+[1784101066532] INFO  (ext): SQLTools activation completed. 93.656121 ms
+[1784101066536] INFO  (ext): Formatter Plugin registered!
+[1784101066536] INFO  (ext): CodeLens Plugin registered!
+[1784101066536] INFO  (ext): Dependency Manager Plugin registered!
+[1784101066537] INFO  (ext): Connection Manager Plugin registered!
+[1784101066537] INFO  (ext): History Manager Plugin registered!
+[1784101066537] INFO  (ext): Bookmarks Manager Plugin registered!
+[1784101066537] INFO  (ext): Authentication Provider Plugin registered!
+[1784101066537] INFO  (ext): Object Drop-in Provider (plugin) registered!
+[1784101069209] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1784101069209] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784101069209] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784101069333] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: yes
+ExecPath: /opt/nodejs/node-v22.19.0-linux-x64/bin/node v22.19.0
+===============================
+[1784101069336] INFO  (ls): User defined env vars
+===============================
+{"PATH":"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.node_modules_global/bin"}
+===============================:
+[1784101071143] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1784101071142] INFO  (ls): Initialized with node version:v22.19.0
+[1784101071397] INFO  (ext): registering SQLite Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-sqlite",
+      "name": "SQLite Plugin",
+      "type": "driver"
+    }
+[1784101071398] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1784101071398] INFO  (ls): request to register plugin: "/extbin/local/openvscode-server/extensions/mtxr.sqltools-driver-sqlite-0.5.0/out/ls/plugin.js"
+[1784101071420] INFO  (ls): Driver sqlite registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1784101072169] INFO  (ext): SQLite Plugin (driver) registered!
+[1784101073236] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1784101073236] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784101078188] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784101081967] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784101189083] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

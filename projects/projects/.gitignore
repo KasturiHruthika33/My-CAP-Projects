@@ -1,0 +1,8 @@
+
+# auto generated wildcard
+action/.env1
+
+**/node_modules/
+**/*.db
+**/_out/
+.DS_Store

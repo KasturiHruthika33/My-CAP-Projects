@@ -1,0 +1,6 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T07:29:34.724Z"
+}

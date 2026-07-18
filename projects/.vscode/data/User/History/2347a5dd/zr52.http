@@ -1,0 +1,8 @@
+GET http://localhost:4004/odata/v4/catalog/$metadata
+
+###
+
+GET http://localhost:4004/odata/v4/catalog/ContactEntity
+
+###
+GET http://localhost:4004/odata/v4/catalog/CustomerEntity

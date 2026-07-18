@@ -1,0 +1,109 @@
+2026-07-15 04:48:35.218 [error] PermissiveAuthRequiredError: Permissive authentication is required
+    at OctoKitService.getCopilotAgentModels (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:372881:15)
+    at async Promise.allSettled (index 1)
+    at CopilotCloudSessionsProvider.provideChatSessionProviderOptions (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:428521:53)
+    at iS.$provideChatSessionProviderOptions (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:144:68570)
+2026-07-15 04:48:35.227 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 04:48:35.227 [error] [CopilotCLISession] Failed to fetch models: Error: Failed to get token for auth info
+2026-07-15 04:48:43.633 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 04:51:35.738 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 04:54:10.923 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 04:59:03.778 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 05:00:27.833 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 05:01:21.023 [error] Server error: 400 {"error":{"message":"The requested model is not supported.","code":"model_not_supported","param":"model","type":"invalid_request_error"}}
+2026-07-15 05:01:21.023 [error] Request Failed: 400 {"error":{"message":"The requested model is not supported.","code":"model_not_supported","param":"model","type":"invalid_request_error"}}
+2026-07-15 05:03:46.853 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 05:08:05.835 [error] Server error: 400 {"error":{"message":"The requested model is not supported.","code":"model_not_supported","param":"model","type":"invalid_request_error"}}
+2026-07-15 05:08:05.835 [error] Request Failed: 400 {"error":{"message":"The requested model is not supported.","code":"model_not_supported","param":"model","type":"invalid_request_error"}}
+2026-07-15 05:08:11.448 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 05:21:31.908 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 05:21:39.980 [error] [AsyncCompletionManager] [a1fcd44d-0a25-4da9-829f-c9c72bbf6bab] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:21:41.413 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.
+2026-07-15 05:21:49.123 [error] [AsyncCompletionManager] [4703bfa5-6b10-49c0-bd43-3d3af8fd5705] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:21:49.454 [error] [AsyncCompletionManager] [5449c160-a40a-446c-a12a-08ed64fff7e4] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:22:09.249 [error] [AsyncCompletionManager] [150f36c9-8960-4992-b6c2-2b96d576f26b] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:22:10.048 [error] [AsyncCompletionManager] [f6cd0d7d-5dce-428a-be05-c8b7b86df188] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:22:15.115 [error] [AsyncCompletionManager] [3df2e27d-030d-4e66-aa13-8cb94df30d15] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:22:15.640 [error] [AsyncCompletionManager] [c517cda0-9cb2-448f-b64f-b036019a7c1a] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:22:17.629 [error] [AsyncCompletionManager] [eca516d2-c20a-4ec9-bafa-a506b1a22583] Request errored with DOMException [AbortError]: This operation was aborted
+    at new DOMException (node:internal/per_context/domexception:66:5)
+    at AbortController.abort (node:internal/abort_controller:504:18)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:444053:14
+    at CallbackList.invoke (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242011:36)
+    at _Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242070:34)
+    at MutableToken2.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242125:27)
+    at CancellationTokenSource13.cancel (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:242160:23)
+    at AsyncCompletionManager.cancelRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520740:38)
+    at AsyncCompletionManager.getFirstMatchingRequest (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:520714:14)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:536069:56
+2026-07-15 05:22:51.713 [error] Error getting a session: Error: Timed out waiting for authentication provider 'microsoft' to register.

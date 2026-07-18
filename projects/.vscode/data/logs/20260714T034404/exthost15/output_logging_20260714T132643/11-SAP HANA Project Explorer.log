@@ -1,0 +1,6 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/capdemo2/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/capdemo2/db/src/.hdiconfig'",
+  "time": "2026-07-14T13:27:07.228Z"
+}

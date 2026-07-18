@@ -1,0 +1,182 @@
+[1784094915010] INFO  (ext): SQLTools is starting
+[1784094915011] INFO  (ext): initializing language client...
+[1784094915092] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1784094915101] INFO  (ext): loading plugins...
+[1784094915101] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1784094915101] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1784094915101] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1784094915102] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1784094915103] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094915103] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1784094915103] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1784094915106] INFO  (ext): registering Authentication Provider Plugin.
+    plugin: {
+      "name": "Authentication Provider Plugin",
+      "isRegistered": false
+    }
+[1784094915106] INFO  (ext): registering Object Drop-in Provider (plugin).
+    plugin: {
+      "type": "plugin",
+      "name": "Object Drop-in Provider",
+      "isRegistered": false
+    }
+[1784094915107] INFO  (ext): SQLTools activation completed. 96.33067 ms
+[1784094915111] INFO  (ext): Formatter Plugin registered!
+[1784094915111] INFO  (ext): CodeLens Plugin registered!
+[1784094915111] INFO  (ext): Dependency Manager Plugin registered!
+[1784094915111] INFO  (ext): Connection Manager Plugin registered!
+[1784094915111] INFO  (ext): History Manager Plugin registered!
+[1784094915111] INFO  (ext): Bookmarks Manager Plugin registered!
+[1784094915111] INFO  (ext): Authentication Provider Plugin registered!
+[1784094915111] INFO  (ext): Object Drop-in Provider (plugin) registered!
+[1784094918094] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1784094918094] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094918094] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094918211] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: yes
+ExecPath: /opt/nodejs/node-v22.19.0-linux-x64/bin/node v22.19.0
+===============================
+[1784094918213] INFO  (ls): User defined env vars
+===============================
+{"PATH":"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.node_modules_global/bin"}
+===============================:
+[1784094922081] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1784094922080] INFO  (ls): Initialized with node version:v22.19.0
+[1784094922332] INFO  (ext): registering SQLite Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-sqlite",
+      "name": "SQLite Plugin",
+      "type": "driver"
+    }
+[1784094923788] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1784094923788] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094922333] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1784094922333] INFO  (ls): request to register plugin: "/extbin/local/openvscode-server/extensions/mtxr.sqltools-driver-sqlite-0.5.0/out/ls/plugin.js"
+[1784094922358] INFO  (ls): Driver sqlite registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1784094923801] INFO  (ext): SQLite Plugin (driver) registered!
+[1784094925686] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1784094925686] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094932748] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094940205] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094941557] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094943040] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094943330] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094944672] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094945888] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094947080] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094948211] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094949858] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094949992] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094950903] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094952226] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094953785] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094955287] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094956030] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094956390] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094957275] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094961135] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094974715] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094976555] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784094990590] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095021936] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095021937] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095054945] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095054947] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095062090] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095067410] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095071050] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095081370] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095086815] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095092341] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095093280] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095097970] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095103900] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095109735] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095115275] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095120616] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095129630] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095134595] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095137910] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095138835] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095142595] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095143810] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095147700] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095152765] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1784095158745] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

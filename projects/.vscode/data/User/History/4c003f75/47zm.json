@@ -1,0 +1,34 @@
+{
+  "name": "Posman",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4.13.3",
+    "passport": "^0.7.0",
+    "@sap-cloud-sdk/connectivity": "^4",
+    "@sap-cloud-sdk/http-client": "^4",
+    "@sap-cloud-sdk/resilience": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true,
+  "cds": {
+    "server": {
+      "index": true
+    },
+    "requires": {
+      "db": "hana",
+      "auth": "xsuaa",
+      "Northwind": {
+        "kind": "odata",
+        "model": "srv/external/Northwind"
+      }
+    }
+  }
+}

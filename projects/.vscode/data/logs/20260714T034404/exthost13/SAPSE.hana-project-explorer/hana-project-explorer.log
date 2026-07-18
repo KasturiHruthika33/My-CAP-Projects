@@ -1,0 +1,6 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "The \"/home/user/projects/where/gen/db\" folder does not exist; cannot create deploy task",
+  "time": "2026-07-14T13:01:29.862Z"
+}

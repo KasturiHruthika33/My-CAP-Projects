@@ -1,0 +1,2 @@
+SAP Web Analytics tracker was created for SAPSE.cds-sampledata-editor
+Open new sample editor with Param {"command":"SelectSample","userdata":{"hideLeft":false,"closeWhenCancel":false,"namespace":"Northwind","external":true},"iaas":"aws","landscape":"us10.trial","is_sap_user":"false","bas_mode":"free","extension_run_platform":"bas-workspace","extension_version":"3.0.8","hashed_user":"cf51a171e7aa62f81bcf145fa91ca9cde237a2daffc32c554667f8bab087a592"}

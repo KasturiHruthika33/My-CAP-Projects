@@ -1,0 +1,20 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T04:43:41.866Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "The \"/home/user/projects/where/gen/db\" folder does not exist; cannot create deploy task",
+  "time": "2026-07-15T04:43:46.150Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error occured in event listener:  Canceled",
+  "name": "Canceled",
+  "stack": "Canceled: Canceled\n    at ou (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)\n    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142631\n    at Array.forEach (<anonymous>)\n    at OE.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142571)\n    at mee.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:10238)\n    at nR.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:122:914)\n    at Hr (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:11144)\n    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:9282)\n    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)\n    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)\n    at Jo.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:9471)\n    at w0.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:12585)\n    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:11006)\n    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)\n    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)\n    at yC.acceptChunk (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7954)\n    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7240)\n    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)\n    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)\n    at WF.w (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:21762)",
+  "time": "2026-07-15T04:47:44.633Z"
+}

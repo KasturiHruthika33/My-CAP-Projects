@@ -1,0 +1,162 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:26:12.972Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:26:17.622Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/gen/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/gen/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:27:28.423Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not retrieve target container for module at path /home/user/projects/demoprog/gen/db",
+  "time": "2026-07-15T03:27:44.037Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse structured log entry '': Unexpected end of JSON input",
+  "time": "2026-07-15T03:27:44.038Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:29:59.205Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:30:12.856Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:34:09.162Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:34:09.487Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:14.300Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:14.978Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:18.970Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:19.693Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:21.695Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:22.968Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:23.597Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:26.888Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:27.652Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:29.012Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:32.118Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:33.078Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:37.203Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:52:41.488Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:42.020Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:52:48.119Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/demoprog/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/demoprog/db/src/.hdiconfig'",
+  "time": "2026-07-15T03:53:17.670Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/demoprog/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T03:53:18.860Z"
+}

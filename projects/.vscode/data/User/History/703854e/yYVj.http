@@ -1,0 +1,7 @@
+GET  http://localhost:4004/odata/v4/bookstore/Books
+
+###
+
+PUT  "ID": 3,
+      "title": "The Raven",
+      "author": "Edgar Allen Poe"

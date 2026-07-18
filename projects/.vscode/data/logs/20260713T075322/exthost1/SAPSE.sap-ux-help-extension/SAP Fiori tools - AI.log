@@ -1,0 +1,23 @@
+2026-07-13 07:54:34.295 [error] Not in the BAS - Joule environment, or Joule not available [Canceled: Canceled
+	at ou (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+	at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142631
+	at Array.forEach (<anonymous>)
+	at OE.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142571)
+	at mee.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:10238)
+	at nR.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Hr (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:11144)
+	at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:9282)
+	at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Jo.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:9471)
+	at w0.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:12585)
+	at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:11006)
+	at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at yC.acceptChunk (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7954)
+	at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7240)
+	at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at WF.w (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:21762)] {
+  message: "Activating extension 'SAPSE.joule' failed: Canceled."
+}

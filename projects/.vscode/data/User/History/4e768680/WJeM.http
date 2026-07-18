@@ -1,0 +1,17 @@
+GET http://localhost:4004/odata/v4/catalog/$metadata
+
+###
+
+GET http://localhost:4004/odata/v4/catalog/Books
+
+###
+
+POST http://localhost:4004/odata/v4/catalog/Books
+Content-Type: application/json
+
+{
+    "ID": 5,
+    "author": "starry nights",
+    "title": "clause 27"
+}
+

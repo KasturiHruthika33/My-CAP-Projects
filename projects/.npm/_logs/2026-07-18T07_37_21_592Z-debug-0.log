@@ -1,0 +1,20 @@
+0 verbose cli /local/asdf-inst-inbox-runtime/installs/nodejs/22.13.1/bin/node /home/user/.asdf-inst/installs/nodejs/22.13.1/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.13.1
+3 silly config load:file:/local/asdf-inst-inbox-runtime/installs/nodejs/22.13.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/.npmrc
+5 silly config load:file:/home/user/.npmrc
+6 silly config load:file:/home/user/.node_modules_global/etc/npmrc
+7 verbose title npm ls
+8 verbose argv "ls" "--long" "--parseable" "--depth" "1"
+9 verbose logfile logs-max:10 dir:/home/user/.npm/_logs/2026-07-18T07_37_21_592Z-
+10 verbose logfile /home/user/.npm/_logs/2026-07-18T07_37_21_592Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly logfile done cleaning log files
+14 verbose cwd /
+15 verbose os Linux 6.12.85-cloud-amd64
+16 verbose node v22.13.1
+17 verbose npm  v10.9.2
+18 verbose exit 0
+19 info ok

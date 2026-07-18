@@ -1,0 +1,9 @@
+GET http://localhost:4004/odata/v4/products/Products
+
+###
+POST  http://localhost:4004/odata/v4/products/Products(ID=3)/ProductsService.activateProduct
+Content-Type: application/json
+
+{
+    "Price":"Price"+1000
+}

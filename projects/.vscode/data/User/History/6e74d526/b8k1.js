@@ -1,0 +1,17 @@
+const cds = require('@sap/cds');
+
+
+module.exports = cds.service.impl(function () {
+    const {Products} = this.entities;
+    this.on('activateProduct','Products',async (req)=> {
+        const status = await SELECT.one.from(Products)
+        .where ({ID:req.params[0].ID});
+        status.Status = 'Active';
+        if (!status){
+            req.error(404, )
+        }
+        await UPDATE(Products).set({Status:status.Status}).where({ID:status.ID});
+        return "Status of Product with ID: "+status.ID+" has been changed to "+status.Status;
+
+    });
+});

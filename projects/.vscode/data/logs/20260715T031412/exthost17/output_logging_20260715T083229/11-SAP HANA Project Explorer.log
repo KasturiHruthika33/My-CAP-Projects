@@ -1,0 +1,120 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Approuter/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T08:32:45.207Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:03.362Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:03.363Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:03.626Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:03.626Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:07.472Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:07.472Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:08.017Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:08.018Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:13.613Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:13.614Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:13.900Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T08:33:13.900Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Approuter/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Approuter/db/src/.hdiconfig'",
+  "time": "2026-07-15T08:33:23.378Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Approuter/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Approuter/db/src/.hdiconfig'",
+  "time": "2026-07-15T08:34:56.120Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Approuter/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T08:34:57.549Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Approuter/gen/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Approuter/gen/db/src/.hdiconfig'",
+  "time": "2026-07-15T08:36:18.065Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse structured log entry '': Unexpected end of JSON input",
+  "time": "2026-07-15T08:36:26.877Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Approuter/gen/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Approuter/gen/db/src/.hdiconfig'",
+  "time": "2026-07-15T08:39:54.158Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse structured log entry '': Unexpected end of JSON input",
+  "time": "2026-07-15T08:39:59.434Z"
+}

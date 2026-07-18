@@ -1,0 +1,93 @@
+2026-07-10 04:05:38.256 [error] Canceled: Canceled
+    at ou (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142631
+    at Array.forEach (<anonymous>)
+    at OE.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142571)
+    at mee.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:10238)
+    at nR.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Hr (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:11144)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:9282)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at Jo.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:9471)
+    at w0.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:12585)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:11006)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at yC.acceptChunk (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7954)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7240)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at WF.w (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:21762)
+2026-07-10 04:05:38.256 [error] Error getting a session: Canceled: Canceled
+2026-07-10 04:05:38.256 [error] Error getting a session: Canceled: Canceled
+2026-07-10 04:05:38.256 [error] Error getting a session: Canceled: Canceled
+2026-07-10 04:05:38.258 [error] [CopilotCLIAgents] Failed to fetch custom agents: Canceled: Canceled
+2026-07-10 04:05:38.258 [error] [CopilotCLIModels] Failed to fetch available models: Canceled: Canceled
+2026-07-10 04:05:38.258 [error] Canceled: Canceled
+    at ou (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142631
+    at Array.forEach (<anonymous>)
+    at OE.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142571)
+    at mee.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:10238)
+    at nR.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Hr (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:11144)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:9282)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at Jo.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:9471)
+    at w0.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:12585)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:11006)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at yC.acceptChunk (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7954)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7240)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at WF.w (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:21762): Failed to get copilot token
+2026-07-10 04:05:38.258 [error] GitHub Copilot could not connect to server. Extension activation failed: "Canceled"
+2026-07-10 04:05:38.258 [error] Canceled: Canceled
+    at ou (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142631
+    at Array.forEach (<anonymous>)
+    at OE.dispose (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:142571)
+    at mee.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:120:10238)
+    at nR.terminate (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Hr (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:11144)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:405:9282)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at Jo.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:9471)
+    at w0.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:12585)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:11006)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at yC.acceptChunk (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7954)
+    at tf.value (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:7240)
+    at I.C (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+    at I.fire (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+    at WF.w (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:21762)
+2026-07-10 04:05:38.258 [error] [ClaudeCodeModels] Failed to fetch models: Canceled: Canceled
+2026-07-10 04:05:38.261 [error] GitHub Copilot could not connect to server. Extension activation failed: "Canceled"
+2026-07-10 04:05:38.261 [error] Canceled: Canceled
+    at new rU (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:141180)
+    at OE.U (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:145790)
+    at Proxy.r.<computed>.n.charCodeAt.r.<computed> (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:143284)
+    at Pte.getAccounts (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:118:14350)
+    at Object.getAccounts (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:213:103806)
+    at getAuthSession (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402341:57)
+    at getAnyAuthSession (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402366:10)
+    at VSCodeCopilotTokenManager._auth (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402451:27)
+    at /local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402479:80
+    at TaskSingler.getOrCreate (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:401678:22)
+    at VSCodeCopilotTokenManager._authShowWarnings (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402479:49)
+    at VSCodeCopilotTokenManager.getCopilotToken (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402435:40)
+    at AuthenticationService.getCopilotToken (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:332396:47)
+    at ContextKeysContribution._inspectContext (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402956:41)
+    at ContextKeysContribution._onAuthenticationChange (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:403039:10)
+    at UniqueContainer.value (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:402904:92)
+    at Emitter._deliver (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:320158:16)
+    at Emitter._deliverQueue (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:320167:12)
+    at Emitter.fire (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:320187:12)
+    at AuthenticationService.fireAuthenticationChange (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:332377:37)
+    at AuthenticationService._handleAuthChangeEvent (/local/source/openvscode-server/extensions/copilot-chat-bas/dist/extension.js:332452:12)

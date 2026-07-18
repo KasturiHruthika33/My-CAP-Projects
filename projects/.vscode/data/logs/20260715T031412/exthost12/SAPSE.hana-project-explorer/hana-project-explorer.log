@@ -1,0 +1,24 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "The \"/home/user/projects/Approuter/gen/db\" folder does not exist; cannot create deploy task",
+  "time": "2026-07-15T07:45:38.253Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "The \"/home/user/projects/where/gen/db\" folder does not exist; cannot create deploy task",
+  "time": "2026-07-15T07:45:38.254Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T07:45:39.922Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T08:09:37.158Z"
+}

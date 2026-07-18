@@ -1,0 +1,13 @@
+GET http://localhost:4004/browse/Books
+
+###
+
+POST http://localhost:4004/browse/Books
+Content-Type: application/json
+
+{
+    "ID": ,
+    "title": "Emily Brontë",
+    "stock": 10,
+    "status": "Stock less than 50"
+}

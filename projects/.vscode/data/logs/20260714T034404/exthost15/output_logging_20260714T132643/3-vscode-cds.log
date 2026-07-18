@@ -1,0 +1,20 @@
+[1:26:47 PM] (Extension) Activating SAPSE.vscode-cds...
+[2026-07-14T13:26:47.565Z] creating client and starting lsp 'LSP at /extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/@sap/cds-lsp for compiler v6'...
+[2026-07-14T13:26:52.183Z] finished starting lsp 'LSP at /extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/@sap/cds-lsp for compiler v6' in 4619ms
+[2026-07-14T13:30:58.574Z] stopping lsp 'LSP at /extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/@sap/cds-lsp for compiler v6'... 
+[Error - 1:30:58 PM] Request textDocument/codeAction failed.
+Error: Starting server failed
+    at cs.$start (/extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/vscode-languageclient/lib/common/client.js:1133:19)
+    at cs.sendRequest (/extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/vscode-languageclient/lib/common/client.js:340:28)
+    at g1.provideCodeActions (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:144:152012)
+[Error - 1:30:58 PM] Request textDocument/codeAction failed.
+Error: Starting server failed
+    at cs.$start (/extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/vscode-languageclient/lib/common/client.js:1133:19)
+    at cs.sendRequest (/extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/vscode-languageclient/lib/common/client.js:340:28)
+    at g1.provideCodeActions (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:144:152012)
+[Error - 1:30:58 PM] Request textDocument/codeAction failed.
+Error: Starting server failed
+    at cs.$start (/extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/vscode-languageclient/lib/common/client.js:1133:19)
+    at cs.sendRequest (/extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/vscode-languageclient/lib/common/client.js:340:28)
+    at g1.provideCodeActions (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:144:152012)
+[2026-07-14T13:30:58.601Z] finished stopping lsp 'LSP at /extbin/local/openvscode-server/extensions/vscode-cds-9.9.0/node_modules/@sap/cds-lsp for compiler v6' in 26ms

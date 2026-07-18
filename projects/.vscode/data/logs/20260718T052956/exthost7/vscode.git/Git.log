@@ -1,0 +1,1 @@
+2026-07-18 07:30:45.651 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.

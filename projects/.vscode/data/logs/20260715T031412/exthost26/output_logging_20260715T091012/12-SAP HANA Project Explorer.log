@@ -1,0 +1,390 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not determine which Cloud MTA version is installed in your system. Go to https://github.com/SAP/cloud-mta to install the tool and try again.",
+  "time": "2026-07-15T09:10:22.881Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "The \"/home/user/projects/apps/gen/db\" folder does not exist; cannot create deploy task",
+  "time": "2026-07-15T09:10:30.789Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:11:11.938Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:11:14.758Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:11:46.713Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:11:56.615Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:11:56.615Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:11:58.751Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:12:00.081Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:13:11.484Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:13:19.354Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:13:47.915Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:13:47.916Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:11.220Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:11.221Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:23.246Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:25.380Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:37.218Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:37.218Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:39.308Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:14:59.408Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:15:15.044Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:15:17.145Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:15:28.759Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:15:30.882Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:03.651Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:03.653Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:03.653Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:03.653Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:32.812Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:57.670Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:57.671Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:57.671Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:16:57.671Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:17:22.561Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:18:19.095Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:18:21.578Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:18:42.835Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:18:45.115Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:03.544Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:05.710Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:16.351Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:19.862Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:21.987Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:32.055Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:34.080Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:19:36.202Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:20:51.960Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:21:25.614Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:21:25.614Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:21:32.625Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:21:32.625Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/apps/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-15T09:22:25.718Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:23:40.963Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/apps/gen/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/apps/gen/db/src/.hdiconfig'",
+  "time": "2026-07-15T09:24:26.998Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not retrieve target container for module at path /home/user/projects/apps/gen/db",
+  "time": "2026-07-15T09:24:35.743Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse structured log entry '': Unexpected end of JSON input",
+  "time": "2026-07-15T09:24:35.744Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:27:24.421Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:27:24.421Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:27:25.061Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:27:25.061Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:33:41.868Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:33:41.869Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:33:50.875Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-15T09:33:50.875Z"
+}

@@ -1,0 +1,432 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "The \"/home/user/projects/xsuaa/gen/db\" folder does not exist; cannot create deploy task",
+  "time": "2026-07-14T11:14:29.375Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:14:40.188Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:14:45.503Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:14:58.053Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:00.644Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:02.803Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:03.640Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:03.641Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:05.921Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:09.193Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:11.950Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:12.267Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:14.817Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:14.818Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:22.181Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:22.518Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:30.932Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:32.541Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:42.627Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:45.694Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:48.019Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:48.743Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:15:51.010Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:16:03.068Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:16:14.881Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:16:14.881Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:16:19.786Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:25:38.908Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:52.803Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:52.804Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:53.494Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:53.495Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:55.657Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:55.658Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:57.368Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:30:57.368Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:12.461Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:12.461Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:12.553Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:12.553Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:16.304Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:16.305Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:18.636Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:31:18.636Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/xsuaa/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T11:31:48.179Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/xsuaa/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T11:31:50.729Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:32:00.561Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:08.483Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:08.483Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:12.303Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:12.303Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:12.797Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:12.797Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:33.217Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:33.217Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:33.968Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:33.968Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:42.820Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:42.820Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:42.868Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:43:42.868Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/gen/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/gen/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:44:20.889Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse structured log entry '': Unexpected end of JSON input",
+  "time": "2026-07-14T11:44:29.976Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not retrieve target container for module at path /home/user/projects/xsuaa/gen/db",
+  "time": "2026-07-14T11:44:30.173Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:44:53.660Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/xsuaa/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T11:44:54.314Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/xsuaa/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T11:44:56.570Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/xsuaa/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/xsuaa/db/src/.hdiconfig'",
+  "time": "2026-07-14T11:44:58.228Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:45:49.988Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:45:49.988Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:46:19.776Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error while reading package.json, using defaults",
+  "time": "2026-07-14T11:46:19.776Z"
+}

@@ -1,0 +1,34 @@
+GET http://localhost:4004/odata/v4/catalog/$metadata
+
+###
+
+GET http://localhost:4004/odata/v4/catalog/ContactEntity
+
+###
+GET http://localhost:4004/odata/v4/catalog/CustomerEntity
+
+###
+PUT http://localhost:4004/odata/v4/catalog/CustomerEntity(4000)
+Content-Type: application/json
+If-Match: W/"2026-07-09T04:59:32.121Z"
+
+{
+    "companyName": "New Company Name",
+    "contactProperty": 1234
+}
+
+###
+
+POST http://localhost:4004/odata/v4/catalog/CustomerEntity
+Content-Type: application/json
+
+{
+  "customerID": 2000,
+  "companyName": "Company2",
+  "contactProperty": 2001,
+  "contacts_contactID": 1
+}
+
+###
+DELETE http://localhost:4004/odata/v4/catalog/CustomerEntity(1000)
+If-Match: *

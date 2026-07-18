@@ -1,0 +1,38 @@
+{
+  "name": "north",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4",
+    "@sap-cloud-sdk/connectivity": "^4",
+    "@sap-cloud-sdk/http-client": "^4",
+    "@sap-cloud-sdk/resilience": "^4",
+    "passport" : "^0.7.0"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true,
+  "cds": {
+    "server" :  {
+      "index" :  true
+    },
+    "requires": {
+        "auth": "dummy",
+        "connectivity":true,
+        "destination":true,
+      
+      "Northwind": {
+        "kind": "odata",
+        "model": "srv/external/Northwind",
+        "credentials": {
+          "url": "https://services.odata.org/V2/Northwind/Northwind.svc/"
+        }
+      }
+    }
+  }
+}

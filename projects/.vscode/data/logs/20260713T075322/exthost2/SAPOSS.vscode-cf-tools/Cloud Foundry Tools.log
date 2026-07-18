@@ -1,0 +1,7 @@
+{
+  "exception": "The token expired, was revoked, or the token ID is incorrect. Please log back in to re-authenticate.\n",
+  "label": "Cloud Foundry Tools.loginTargetView",
+  "level": "error",
+  "message": "getTarget failed",
+  "time": "2026-07-13T07:54:57.863Z"
+}

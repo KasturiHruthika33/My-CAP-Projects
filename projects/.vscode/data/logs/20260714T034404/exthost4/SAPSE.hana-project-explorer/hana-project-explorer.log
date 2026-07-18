@@ -1,0 +1,24 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T05:19:29.552Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Assoc/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Assoc/db/src/.hdiconfig'",
+  "time": "2026-07-14T05:19:39.997Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Assoc/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Assoc/db/src/.hdiconfig'",
+  "time": "2026-07-14T05:19:40.443Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not read content from \"/home/user/projects/Assoc/db/src/.hdiconfig\" path: ENOENT: no such file or directory, open '/home/user/projects/Assoc/db/src/.hdiconfig'",
+  "time": "2026-07-14T05:21:05.273Z"
+}

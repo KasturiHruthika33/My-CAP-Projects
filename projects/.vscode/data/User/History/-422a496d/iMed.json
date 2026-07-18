@@ -1,0 +1,4 @@
+{
+    "window.confirmBeforeClose": "never",
+    "chat.allowAnonymousAccess": false
+}

@@ -1,0 +1,7 @@
+{
+  "exception": "Not logged in. Use 'cf login' or 'cf login --sso' to log in.\n",
+  "label": "Cloud Foundry Tools.loginTargetView",
+  "level": "error",
+  "message": "getTarget failed",
+  "time": "2026-07-09T08:55:38.202Z"
+}

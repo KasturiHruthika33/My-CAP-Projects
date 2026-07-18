@@ -1,0 +1,7 @@
+{
+  "exception": "Activating extension 'SAP.vscode-wing-run-config' failed: Canceled.",
+  "label": "Cloud Foundry Tools.extension",
+  "level": "error",
+  "message": "activate <sap.vscode-wing-run-config> extension fails",
+  "time": "2026-07-13T07:54:33.620Z"
+}

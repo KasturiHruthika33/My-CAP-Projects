@@ -1,0 +1,11 @@
+OrderNo;CustomerNo;Channel;OrderQuantity;GroupNo
+O1001;C101;Online;5;1
+O1002;C102;Store;2;2
+O1003;C103;Online;10;1
+O1004;C104;Mobile;3;3
+O1005;C105;Store;8;2
+O1006;C106;Online;6;1
+O1007;C107;Mobile;4;3
+O1008;C108;Store;7;2
+O1009;C109;Online;9;1
+O1010;C110;Mobile;1;3

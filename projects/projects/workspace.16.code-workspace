@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "xsuaa2"
+        }
+    ],
+    "settings": {
+        "SAP HANA Project Explorer.bind.confirm automatic undeployment": false
+    }
+}

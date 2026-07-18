@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# asdf-plugin: maven 3.8.9
+# asdf-plugin: maven 3.9.16
+exec /home/user/.asdf/bin/asdf exec "mvnyjp" "$@" # asdf_allow: ' asdf '

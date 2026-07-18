@@ -1,0 +1,14 @@
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Could not parse .env file: The module path \"/home/user/projects/Assoc/gen/db\" is not a valid CAP DB module path.",
+  "time": "2026-07-14T11:12:01.433Z"
+}
+{
+  "label": "hana-project-explorer",
+  "level": "error",
+  "message": "Error occured in event listener:  Canceled",
+  "name": "Canceled",
+  "stack": "Canceled: Canceled\n    at new rU (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:141180)\n    at OE.U (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:145790)\n    at Proxy.r.<computed>.n.charCodeAt.r.<computed> (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:29:143284)\n    at file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:113:75223\n    at Array.map (<anonymous>)\n    at cA.B (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:113:75209)\n    at cA.A (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:113:75159)\n    at cA.findFiles (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:113:73694)\n    at Object.findFiles (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:213:119458)\n    at p (/extbin/local/openvscode-server/extensions/hana-project-explorer-1.38.0-bas/dist/extension.js:1:4277368)\n    at u (/extbin/local/openvscode-server/extensions/hana-project-explorer-1.38.0-bas/dist/extension.js:1:4277247)\n    at /extbin/local/openvscode-server/extensions/hana-project-explorer-1.38.0-bas/dist/extension.js:1:4078274\n    at L (/extbin/local/openvscode-server/extensions/hana-project-explorer-1.38.0-bas/dist/extension.js:1:4078734)\n    at M (/extbin/local/openvscode-server/extensions/hana-project-explorer-1.38.0-bas/dist/extension.js:1:4078118)\n    at /extbin/local/openvscode-server/extensions/hana-project-explorer-1.38.0-bas/dist/extension.js:1:4078082\n    at /extbin/local/openvscode-server/extensions/hana-project-explorer-1.38.0-bas/dist/extension.js:1:4319227",
+  "time": "2026-07-14T11:14:02.084Z"
+}
