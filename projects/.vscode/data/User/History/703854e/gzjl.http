@@ -1,9 +1,0 @@
-GET  http://localhost:4004/odata/v4/bookstore/$metadata
-
-###
-
-Get  http://localhost:4004/odata/v4/bookstore/Books
-
-###
-
-post

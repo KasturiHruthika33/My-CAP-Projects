@@ -1,6 +1,0 @@
-2026-07-15 03:27:41.075 [error] [RPC Response] PtyService#acknowledgeDataEvent Could not find pty 3 on pty host
-2026-07-15 06:41:03.236 [error] [RPC Response] PtyService#acknowledgeDataEvent Could not find pty 9 on pty host
-2026-07-15 06:41:03.238 [error] [RPC Response] PtyService#acknowledgeDataEvent Could not find pty 9 on pty host
-2026-07-15 06:43:11.551 [error] [RPC Response] PtyService#acknowledgeDataEvent Could not find pty 10 on pty host
-2026-07-15 08:52:03.331 [error] [RPC Response] PtyService#acknowledgeDataEvent Could not find pty 19 on pty host
-2026-07-15 08:59:06.944 [error] [RPC Response] PtyService#acknowledgeDataEvent Could not find pty 20 on pty host

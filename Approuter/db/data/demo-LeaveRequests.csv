@@ -1,4 +1,0 @@
-leaveID;leaveType;startDate;endDate;reason;status;employee_empID
-101;Sick Leave;2026-07-01;2026-07-03;Fever;Approved;1
-102;Annual Leave;2026-08-10;2026-08-14;Vacation;Pending;2
-103;Casual Leave;2026-07-20;2026-07-21;Personal Work;Approved;1

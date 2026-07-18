@@ -1,8 +1,0 @@
-GET  http://localhost:4004/odata/v4/bookstore/$metadata
-
-###
-
-PUT  odata/v4/bookstore
-header name: header value
-
-content

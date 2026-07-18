@@ -1,9 +1,0 @@
-salesorder_ID;itemID;material;quantity
-1;10;Pen;100
-1;20;Pencil;200
-2;10;Pen;50
-2;20;Pencil;100
-
-ID;description;customerNo
-1;Order1;C1
-2;Order2;C2

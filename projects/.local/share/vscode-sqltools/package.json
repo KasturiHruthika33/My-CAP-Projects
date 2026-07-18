@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "sqlite3": "https://github.com/TryGhost/node-sqlite3/archive/refs/tags/v5.1.1.tar.gz"
-  }
-}

@@ -1,8 +1,0 @@
-GET  http://localhost:4004/odata/v4/bookstore/$metadata
-
-###
-
-PUT  http://localhost:4004/odata/v4/bookstore/Books
-Content-Type: application/json
-
-content

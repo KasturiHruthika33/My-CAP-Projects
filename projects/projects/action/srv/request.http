@@ -1,9 +1,0 @@
-GET http://localhost:4004/odata/v4/products/Products
-
-###
-POST  http://localhost:4004/odata/v4/products/Products(ID=2)/ProductsService.activateProduct
-Content-Type: application/json
-
-{
-
-}

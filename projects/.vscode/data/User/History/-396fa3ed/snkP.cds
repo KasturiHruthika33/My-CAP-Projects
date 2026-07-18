@@ -1,2 +1,0 @@
-namespace acc.com.odataproj;
-

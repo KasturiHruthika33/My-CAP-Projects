@@ -1,3 +1,0 @@
-namespace demo;
-
-enti

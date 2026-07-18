@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# asdf-plugin: nodejs 22.13.1
-exec /home/user/.asdf/bin/asdf exec "npx" "$@" # asdf_allow: ' asdf '

@@ -1,7 +1,0 @@
-{
-  "label": "Application Wizard.AbstractWebviewPanel",
-  "level": "error",
-  "message": "@sap/cap-project:app generator failed - process.on(uncaughtException) Channel has been closed",
-  "stack": "Error: Channel has been closed\n    at n (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:123:3001)\n    at Object.info (file:///extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:123:3346)\n    at T.info (/local/source/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45267)\n    at ChildProcess.<anonymous> (/local/source/openvscode-server/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:606637)\n    at ChildProcess.emit (node:events:519:28)\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)",
-  "time": "2026-07-15T07:04:28.785Z"
-}

@@ -1,7 +1,0 @@
-[credential]
-	helper = /home/user/.bas-git/bas-git-helper-init.sh
-[user]
-	email = hruthikakasturi6@gmail.com
-	name = Kasturi Hruthika
-[init]
-	defaultBranch = main

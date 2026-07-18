@@ -1,6 +1,0 @@
-{
-  "label": "hana-project-explorer",
-  "level": "error",
-  "message": "The \"/home/user/projects/Approuter/gen/db\" folder does not exist; cannot create deploy task",
-  "time": "2026-07-15T07:38:01.411Z"
-}

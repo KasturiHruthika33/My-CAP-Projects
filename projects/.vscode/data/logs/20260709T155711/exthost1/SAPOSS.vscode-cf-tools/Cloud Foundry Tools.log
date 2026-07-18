@@ -1,7 +1,0 @@
-{
-  "exception": "ENOENT: no such file or directory, open '/home/user/projects/Sample/.env2'",
-  "label": "Cloud Foundry Tools.DependencyHandler",
-  "level": "error",
-  "message": "unbind: processing failed",
-  "time": "2026-07-09T16:38:42.635Z"
-}
