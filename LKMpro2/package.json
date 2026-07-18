@@ -1,0 +1,31 @@
+{
+  "name": "LKMpro2",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9",
+    "@sap/hana-client": "^2.29.23",
+    "@sap/xssec": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9",
+    "@sap/hdi-deploy": "5.7.0"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true,
+  "cds": {
+    "server": {
+      "index": true
+    },
+    "requires": {
+      "db": "hana",
+      "auth": "dummy"
+    },
+    "hana": {
+      "deploy-format": "hdbtable"
+    }
+  }
+}
