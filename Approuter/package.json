@@ -1,0 +1,63 @@
+{
+<<<<<<< HEAD
+  "name": "Approuter",
+=======
+  "name": "xsuaapractice",
+>>>>>>> ff402a22a73e8c5246114ecedfc12f8c61ff55c5
+  "version": "1.0.0",
+  "dependencies": {
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9",
+<<<<<<< HEAD
+=======
+    "@sap/hana-client": "^2.29.25",
+>>>>>>> ff402a22a73e8c5246114ecedfc12f8c61ff55c5
+    "@sap/xssec": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9",
+<<<<<<< HEAD
+    "cds-plugin-ui5": "^0.17.0",
+    "rimraf": "^5.0.5",
+    "mbt": "^1.2.49"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch-manageorders_ui": "cds watch --open manageordersui/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "undeploy": "cf undeploy Approuter --delete-services --delete-service-keys --delete-service-brokers",
+    "build": "rimraf resources mta_archives && mbt build --mtar archive",
+    "deploy": "cf deploy mta_archives/archive.mtar --retries 1"
+=======
+    "@sap/hdi-deploy": "5.7.0"
+  },
+  "scripts": {
+    "start": "cds-serve"
+>>>>>>> ff402a22a73e8c5246114ecedfc12f8c61ff55c5
+  },
+  "private": true,
+  "cds": {
+    "server": {
+      "index": true
+    },
+    "requires": {
+      "db": "hana",
+      "auth": "xsuaa"
+<<<<<<< HEAD
+    }
+  },
+  "workspaces": [
+    "app/*"
+  ],
+  "sapux": [
+    "app/manageorders_ui"
+  ]
+=======
+
+    },
+    "hana": {
+      "deploy-format": "hdbtable"
+    }
+  }
+>>>>>>> ff402a22a73e8c5246114ecedfc12f8c61ff55c5
+}
