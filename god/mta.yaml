@@ -1,0 +1,142 @@
+_schema-version: 3.3.0
+ID: god
+description: A simple CAP project.
+version: 1.0.0
+modules:
+- name: god-srv
+  type: nodejs
+  path: gen/srv
+  requires:
+  - name: god-auth
+  - name: god-db
+  provides:
+  - name: srv-api
+    properties:
+      srv-url: ${default-url}
+  parameters:
+    buildpack: nodejs_buildpack
+    instances: 1
+  build-parameters:
+    builder: npm-ci
+- name: god-db-deployer
+  type: hdb
+  path: gen/db
+  requires:
+  - name: god-db
+  parameters:
+    buildpack: nodejs_buildpack
+- name: god-destination-content
+  type: com.sap.application.content
+  requires:
+  - name: god-destination-service
+    parameters:
+      content-target: true
+  - name: god_html_repo_host
+    parameters:
+      service-key:
+        name: god_html_repo_host-key
+  - name: god-auth
+    parameters:
+      service-key:
+        name: god-auth-key
+  parameters:
+    content:
+      instance:
+        destinations:
+        - Name: booksauthor_god_html_repo_host
+          ServiceInstanceName: god-html5-app-host-service
+          ServiceKeyName: god_html_repo_host-key
+          sap.cloud.service: booksauthor
+        - Authentication: OAuth2UserTokenExchange
+          Name: booksauthor_god_auth
+          ServiceInstanceName: god-auth
+          ServiceKeyName: god-auth-key
+          sap.cloud.service: booksauthor
+        existing_destinations_policy: ignore
+  build-parameters:
+    no-source: true
+- name: god-app-content
+  type: com.sap.application.content
+  path: .
+  requires:
+  - name: god_html_repo_host
+    parameters:
+      content-target: true
+  build-parameters:
+    build-result: resources
+    requires:
+    - artifacts:
+      - booksui.zip
+      name: booksui
+      target-path: resources/
+- name: booksui
+  type: html5
+  path: app/books_ui
+  build-parameters:
+    build-result: dist
+    builder: custom
+    commands:
+    - npm install
+    - npm run build:cf
+    supported-platforms: []
+resources:
+- name: god-auth
+  type: org.cloudfoundry.managed-service
+  parameters:
+    config:
+      oauth2-configuration:
+        credential-types:
+        - binding-secret
+        - x509
+      tenant-mode: dedicated
+      xsappname: god-${org}-${space}
+    path: ./xs-security.json
+    service: xsuaa
+    service-plan: application
+- name: god-db
+  type: com.sap.xs.hdi-container
+  parameters:
+    service: hana
+    service-plan: hdi-shared
+- name: god-destination-service
+  type: org.cloudfoundry.managed-service
+  parameters:
+    config:
+      HTML5Runtime_enabled: true
+      init_data:
+        instance:
+          destinations:
+          - Authentication: NoAuthentication
+            Name: ui5
+            ProxyType: Internet
+            Type: HTTP
+            URL: https://ui5.sap.com
+          - Authentication: NoAuthentication
+            HTML5.DynamicDestination: true
+            HTML5.ForwardAuthToken: true
+            Name : Books-srv-api
+            ProxyType: Internet
+            Type: HTTP
+            URL: ~{srv-api/srv-url}
+          existing_destinations_policy: update
+      version: 1.0.0
+    service: destination
+    service-name: god-destination-service
+    service-plan: lite
+  requires:
+    - name: srv-api
+- name: god_html_repo_host
+  type: org.cloudfoundry.managed-service
+  parameters:
+    service: html5-apps-repo
+    service-name: god-html5-app-host-service
+    service-plan: app-host
+parameters:
+  deploy_mode: html5-repo
+  enable-parallel-deployments: true
+build-parameters:
+  before-all:
+  - builder: custom
+    commands:
+    - npm ci
+    - npx cds build --production
