@@ -1,0 +1,37 @@
+{
+  "name": "northwind-customers",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4",
+    "@sap-cloud-sdk/connectivity": "^4",
+    "@sap-cloud-sdk/http-client": "^4",
+    "@sap-cloud-sdk/resilience": "^4",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true,
+  "cds": {
+    "server" : {
+      "index": true
+    },
+    "requires": {
+
+      "auth": "xsuaa",
+
+      "NorthWind": {
+        "kind": "odata",
+        "model": "srv/external/NorthWind",
+        "credentials":{
+          "destination" : "MyApi"
+        }
+      }
+    }
+  }
+}

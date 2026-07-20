@@ -1,0 +1,26 @@
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:13:20.514085] Updated app with guid 81ea38d6-630c-4480-a548-dd847902dac7 ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:13:20.597628] Updating process: "web" (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:13:50.536481] Uploading app package for app with guid 81ea38d6-630c-4480-a548-dd847902dac7 (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:14:00.739966] Creating build for app with guid 81ea38d6-630c-4480-a548-dd847902dac7 (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:15:12.054001] Staging failed for build aa1393cc-49ce-4661-b66f-053faf143dec (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:15:12.065549] Failed to stage build: found no compatible cell with placement tag "trial" (STDERR, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:17:37.125209] Updated app with guid 81ea38d6-630c-4480-a548-dd847902dac7 ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:17:37.226396] Updating process: "web" (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:18:07.312242] Uploading app package for app with guid 81ea38d6-630c-4480-a548-dd847902dac7 (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:18:07.481931] Updated app with guid 81ea38d6-630c-4480-a548-dd847902dac7 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 07 20 07:18:27.833#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12258#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:18:17.807943] Creating build for app with guid 81ea38d6-630c-4480-a548-dd847902dac7 (STDOUT, API)#
+#2026 07 20 07:19:29.496#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12308#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:19:21.633309] Staging failed for build fa63858c-b052-4a35-9ef5-2b4b932485e4 (STDOUT, API)#
+#2026 07 20 07:19:29.496#Z#DEBUG#1000f1f3-840b-11f1-b588-eeee0a88eb96.northwind-customers-srv#flowable-async-job-executor-thread-12308#
+[PollStageAppStatusExecution] 81ea38d6-630c-4480-a548-dd847902dac7 [2026-07-20T07:19:21.644452] Failed to stage build: found no compatible cell with placement tag "trial" (STDERR, API)#

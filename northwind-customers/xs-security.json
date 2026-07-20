@@ -1,0 +1,8 @@
+{
+  "xsappname":"customerAPI",
+  "tenant-mode" : "dedicated",
+  "scopes": [],
+  "attributes": [],
+  "role-templates": [],
+  "authorities-inheritance": false
+}
