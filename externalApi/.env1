@@ -1,0 +1,1 @@
+destinations=[{"name":"EmployeeApi","url":"https://EmployeeApi.dest","proxyHost":"http://127.0.0.1","proxyPort":"8887"}]
