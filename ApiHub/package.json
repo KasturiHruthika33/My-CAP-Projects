@@ -1,0 +1,35 @@
+{
+  "name": "ApiHub",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap-cloud-sdk/connectivity": "^4.7.0",
+    "@sap-cloud-sdk/http-client": "^4.7.0",
+    "@sap-cloud-sdk/resilience": "^4.7.0",
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true,
+  "cds": {
+    "server":{
+      "index":true
+    },
+    "requires": {
+      "auth": "xsuaa",
+      "APIHub_srv" :{
+        "kind":"odata",
+        "credentials":{
+          "destination":"ApiHubSandBox",
+          "path": "/s4hanacloud/sap/opu/odata/sap/API_SALES_ORDER_SRV"
+        }
+      }
+      }
+    }
+  }
+
